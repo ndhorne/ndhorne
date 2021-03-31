@@ -28,10 +28,10 @@ Aspiring programmer residing in Inland Southern California with big dreams of so
 - [Golden Key International Honour Society](https://www.goldenkey.org/)
 
 ### GitHub Pages Site:
-[Nicholas D. Horne Source Code Showcase](https://ndhorne.github.io/)
+- [Nicholas D. Horne Source Code Showcase](https://ndhorne.github.io/)
 
 ### Contact:
-[Online Contact Submission Form](https://ndhorne.github.io/contact.html)
+- [Online Contact Submission Form](https://ndhorne.github.io/contact.html)
 
 ### GitHub:
-[https://github.com/ndhorne ](https://github.com/ndhorne)
+- [https://github.com/ndhorne ](https://github.com/ndhorne)
