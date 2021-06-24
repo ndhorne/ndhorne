@@ -31,8 +31,5 @@ Aspiring programmer residing in Inland Southern California with big dreams of so
 ### GitHub Pages Site:
 - [Nicholas D. Horne Source Code Showcase](https://ndhorne.github.io/)
 
-### GitHub Profile:
-- [https://github.com/ndhorne ](https://github.com/ndhorne)
-
 ### Contact:
 - [Online Contact Submission Form](https://ndhorne.github.io/contact.html)
