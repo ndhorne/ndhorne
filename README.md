@@ -28,6 +28,20 @@ Aspiring programmer residing in Inland Southern California with big dreams of so
 - [Beta Gamma Sigma International Business Honor Society](https://www.betagammasigma.org/)
 - [Golden Key International Honour Society](https://www.goldenkey.org/)
 
+### Certifications (past and present):
+- CompTIA Linux+, Server+, Security+, Network+, A+
+- Linux Professional Institute LPIC-2: Linux Network Professional
+- Linux Professional Institute LPIC-1: Linux Server Professional
+- Novell SUSE Certified Linux Administrator
+- Microsoft Certified Solutions Associate (MCSA): Windows Server 2012
+- Microsoft Certified IT Professional (MCITP): Enterprise Administrator 2008
+- Microsoft Certified IT Professional (MCITP): Server Administrator 2008
+- Microsoft Certified Solutions Associate (MCSA): Windows Server 2008
+- Microsoft Certified Systems Engineer (MCSE) 2003
+- Microsoft Certified Systems Administrator (MCSA) 2003
+- Microsoft Certified Technology Specialist (MCTS)
+- Microsoft Certified Professional (MCP)
+
 ### GitHub Pages Site:
 - [Nicholas D. Horne Source Code Showcase](https://ndhorne.github.io/)
 
