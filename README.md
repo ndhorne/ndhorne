@@ -47,3 +47,6 @@ Aspiring programmer residing in Inland Southern California with big dreams of so
 
 ### Contact:
 - [Online Contact Submission Form](https://ndhorne.github.io/contact.html)
+
+### LinkedIn
+- [https://www.linkedin.com/in/nicholashorne](https://www.linkedin.com/in/nicholashorne)
